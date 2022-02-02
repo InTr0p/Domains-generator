@@ -19,9 +19,6 @@ console.log(pronoun[1] + adj[1] + noun[1] + domain[0]);
 
 /* Other Domains = .us,.io,.ad,.cl,.ve,.tk,.ro,.ws */
 
-console.log(";-----------------------------;")
-
-
 console.log(pronoun[0] + adj[0] + noun[0] + domain[2]);
 console.log(pronoun[0] + adj[0] + noun[1] + domain[5]);
 console.log(pronoun[1] + adj[0] + noun[0] + domain[4]);
